@@ -4,6 +4,9 @@ In this repo, disturbance rejection control (DRC) based on unknown input observa
 Keywords: Unknown input observation, Disturbance rejection control, Disturbance observer-based control, noise decoupling.
 
 
+refer to https://scholar.google.com/citations?user=-HRHoYoAAAAJ&hl=de
+
+
 References
 [1]  Guan, M. Saif, A novel approach to the design of unknown input observers, IEEE T. Automat. Contr. 36 (1991) 632-635.
 
